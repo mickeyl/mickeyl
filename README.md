@@ -1,16 +1,18 @@
-![Mickey's Github Stats](https://github-readme-stats.vercel.app/api?username=mickeyl&show_icons=true&theme=default)
+### Hi, I'm Mickey 👋
 
-<!--
-**mickeyl/mickeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software architect, author, musician — based in Neu-Isenburg, Germany.
 
-Here are some ideas to get you started:
+I run **Dr. Lauer Information Technology** and am available for freelance work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://raw.githubusercontent.com/mickeyl/mickeyl/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/mickeyl)
+[![](https://raw.githubusercontent.com/mickeyl/mickeyl/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/mickeyl)
+
+[![](https://raw.githubusercontent.com/mickeyl/mickeyl/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/mickeyl?tab=repositories)
+[![](https://raw.githubusercontent.com/mickeyl/mickeyl/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/mickeyl?tab=repositories)
+
+[![](https://raw.githubusercontent.com/mickeyl/mickeyl/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/mickeyl)
+
+#### Get in touch
+
+- 🌐 [vanille.de](https://www.vanille.de)
+- 🐦 [@DrMickeyLauer](https://twitter.com/DrMickeyLauer)
