@@ -17,5 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: mickeyl
-          BRANCH_NAME: main
+          BRANCH_NAME: master
           UTC_OFFSET: 1
