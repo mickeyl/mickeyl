@@ -44,3 +44,4 @@ The common thread across 40+ years: **bridging hardware and software**.
 
 - 🌐 [vanille.de](https://www.vanille.de)
 - 🐦 [@DrMickeyLauer](https://twitter.com/DrMickeyLauer)
+- 💖 [Sponsor me on GitHub](https://github.com/sponsors/mickeyl)
