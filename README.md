@@ -10,9 +10,9 @@ I run **Dr. Lauer Information Technology** and am available for freelance work.
 
 The common thread across 40+ years: **bridging hardware and software**.
 
-🚗 **Automotive Diagnostics & Vehicle Connectivity** — OBD2, CAN bus, J2534, ELM327 adapters, custom hardware. From my flagship [`LTSupportAutomotive`](https://github.com/mickeyl/LTSupportAutomotive) library to recent Rust-based tools like [`mcangen`](https://github.com/mickeyl/mcangen), [`mcandump`](https://github.com/mickeyl/mcandump), and [`j2534-bridge`](https://github.com/mickeyl/j2534-bridge) — plus commercial apps like OBD2 Expert, CANcorder, and ELMterm.
+🚗 **Automotive Diagnostics & Vehicle Connectivity** — OBD2, CAN bus, J2534, ELM327 adapters, custom hardware. From my flagship [`LTSupportAutomotive`](https://github.com/mickeyl/LTSupportAutomotive) library to recent Rust-based tools like [`mcangen`](https://github.com/mickeyl/mcangen), [`mcandump`](https://github.com/mickeyl/mcandump), and [`j2534-bridge`](https://github.com/mickeyl/j2534-bridge) — plus commercial apps like OBD2 Expert and CANcorder, and the open-source [`ELMterm`](https://github.com/Automotive-Swift/ELMterm).
 
- **Apple Platform Craftsmanship** — Swift and SwiftUI across iOS, macOS, watchOS, and visionOS. Polished apps like NetworkLab, BLE Laboratory Pro, SongBook Pro, and RetroPlayer. Deep care for typography, performance, and platform conventions.
+ **Apple Platform Craftsmanship** — Swift and SwiftUI across iOS, macOS, watchOS, and visionOS. Polished apps like NetworkLab Pro, BLE Laboratory Pro, SongBook Pro, and RetroPlayer. Deep care for typography, performance, and platform conventions.
 
 📡 **Bluetooth Low Energy** — The bridge between the automotive and Apple worlds. [`core-bluetooth-tool`](https://github.com/mickeyl/core-bluetooth-tool), [`ImpossiBLE`](https://github.com/mickeyl/ImpossiBLE) — making BLE-based adapters work seamlessly.
 
